@@ -1,30 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Backend%20Engineer&fontSize=58&fontColor=ffffff&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Backend%20Systems&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="Backend Systems" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Backend+Engineer;C%23+.NET+%C2%B7+PHP+%C2%B7+Go;Into+performance+%26+clean+design;I+write+on+Qiita" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=560&lines=Performance+%C2%B7+Clean+Design+%C2%B7+Cloud;C%23%2F.NET+%C2%B7+PHP+%C2%B7+Go;I+write+technical+notes+on+Qiita" alt="typing" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
 ## 🧑‍💻 About Me
 
 ```yaml
 name: y.hirayama
 role: Backend Engineer
-main: [C#, PHP]
-also: [Go, TypeScript, Python]
+main: [C#/.NET, PHP, Go]
+also: [TypeScript, Python]
 cloud: [GCP, AWS]
 focus: performance & clean design
 ```
 
-Backend engineer working mainly with **C# / .NET** and **PHP**.
+Backend engineer working mainly with **C# / .NET**, **PHP**, and **Go**.
 I like digging into how things actually work — GC, allocations,
 benchmarks — and I care about clean design (DI, design patterns).
 Off the clock I tinker with Raspberry Pi and Blender.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
 ## 🛠 Tech Stack
 
@@ -42,8 +38,6 @@ Off the clock I tinker with Raspberry Pi and Blender.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-
 ## 🚀 Featured Projects
 
 My code lives on a separate account → **[@Pokeyama](https://github.com/Pokeyama)**
@@ -57,16 +51,12 @@ My code lives on a separate account → **[@Pokeyama](https://github.com/Pokeyam
 | [aws-infrastructure-example](https://github.com/Pokeyama/aws-infrastructure-example) | AWS infrastructure starter | Terraform · AWS |
 | [uniqlo-tshirt-app](https://github.com/Pokeyama/uniqlo-tshirt-app) | Go code featured on a UNIQLO T-shirt | Go |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-
 ## 🌱 Currently
 
 - **Learning:** Go
 - **Digging into:** performance &amp; internals (GC, allocations, benchmarks)
 - **Care about:** software design — dependency injection &amp; design patterns
 - **For fun:** Raspberry Pi (embedded) &amp; Blender (3D)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
 ## 📝 Latest on Qiita
 
@@ -85,6 +75,6 @@ My code lives on a separate account → **[@Pokeyama](https://github.com/Pokeyam
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" alt="footer" width="100%" />
 
 </div>
