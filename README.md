@@ -92,6 +92,10 @@ Off the clock I tinker with Raspberry Pi and Blender.
 ## 📝 Latest on Qiita
 
 <!-- BLOG-POST-LIST:START -->
+- [JWTの先頭が「ey」じゃないトークンを作る](https://qiita.com/simoyama2323/items/b45573959a34f5e9df82)
+- [【C#/Go】GC（ガベージコレクション）の仕組みを実測で理解する](https://qiita.com/simoyama2323/items/f786af9ee006a578a508)
+- [【C#/Go/PHP】配列の初期容量を指定するとどれだけ速くなるのか実測](https://qiita.com/simoyama2323/items/7fe670abb8ccf6b9812a)
+- [Spec駆動開発 4つのmdで要件→設計→実装まで](https://qiita.com/simoyama2323/items/16a1d3c518ae5fdf8a62)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
