@@ -14,24 +14,61 @@ role: Backend Engineer
 main: [C#, PHP]
 also: [Go, TypeScript, Python]
 cloud: [GCP, AWS]
-focus: reliable backend systems
+focus: reliable backend systems & clean software design
 ```
+
+Backend engineer working mainly with **C# / .NET** and **PHP**.
+I care about clean software design — dependency injection, design patterns,
+and keeping systems maintainable. Off the clock I also tinker with hardware
+like Raspberry Pi.
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-**Main**
+**Languages** &nbsp;(main: C# / PHP)
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Also**
+**Frameworks &amp; Runtime**
 
-<img src="https://skillicons.dev/icons?i=go,ts,python,dotnet,nodejs,gcp,aws,docker,git,github&perline=5" alt="skills" />
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Slim](https://img.shields.io/badge/Slim-3E4E50?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&labelColor=232F3E)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 
 </div>
+
+## 🌱 Currently
+
+- **Learning:** Go
+- **Into:** software design (DI &amp; design patterns), embedded / Raspberry Pi, cloud (GCP / AWS)
+
+## ✍️ Blog
+
+I write about C# / .NET internals, software design, and hardware hacks on Qiita.
+
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/simoyama2323)
 
 <br/>
 
