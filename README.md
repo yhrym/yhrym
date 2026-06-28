@@ -10,10 +10,6 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="58%">
-
 ```yaml
 name: hirayama
 role: Backend Engineer
@@ -27,17 +23,6 @@ Backend engineer working mainly with **C# / .NET** and **PHP**.
 I like digging into how things actually work — GC, allocations,
 benchmarks — and I care about clean design (DI, design patterns).
 Off the clock I tinker with Raspberry Pi and Blender.
-
-</td>
-<td valign="top" width="42%">
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,go,ts,python&perline=3" alt="stack" />
-
-</div>
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
