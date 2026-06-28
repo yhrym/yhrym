@@ -44,6 +44,21 @@ Off the clock I tinker with Raspberry Pi and Blender.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
+## 🚀 Featured Projects
+
+My code lives on a separate account → **[@Pokeyama](https://github.com/Pokeyama)**
+
+| Project | What it is | Tech |
+| --- | --- | --- |
+| [csharp-realtime-chat-with-magicaonion](https://github.com/Pokeyama/csharp-realtime-chat-with-magicaonion) | Real-time chat server | C# · MagicOnion |
+| [minimal-oidc-auth-server-vue-client](https://github.com/Pokeyama/minimal-oidc-auth-server-vue-client) | Minimal OIDC authorization server + Vue client | TypeScript · Hono · Redis |
+| [spec-dev](https://github.com/Pokeyama/spec-dev) | Spec-driven development example | Go |
+| [speech_summarizer](https://github.com/Pokeyama/speech_summarizer) | Meeting-minutes summarizer | Python · GCP (Speech-to-Text, Vertex AI) |
+| [aws-infrastructure-example](https://github.com/Pokeyama/aws-infrastructure-example) | AWS infrastructure starter | Terraform · AWS |
+| [uniqlo-tshirt-app](https://github.com/Pokeyama/uniqlo-tshirt-app) | Go code featured on a UNIQLO T-shirt | Go |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+
 ## 🌱 Currently
 
 - **Learning:** Go
