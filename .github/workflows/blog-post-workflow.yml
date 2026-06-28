@@ -1,0 +1,24 @@
+name: Latest Qiita post workflow
+
+on:
+  schedule:
+    # 6時間ごと (UTC)。READMEのマーカー間に最新のQiita記事を流し込む
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Actionsタブから手動実行も可能
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Qiita posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull latest Qiita posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://qiita.com/simoyama2323/feed"
+          max_post_count: 5

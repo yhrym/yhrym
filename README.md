@@ -2,11 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=hirayama&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=460&lines=Backend+Engineer;C%23+%2F+PHP+as+main;Go+%2F+TypeScript+%2F+Python;Building+reliable+backends" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Backend+Engineer;C%23+.NET+%C2%B7+PHP+%C2%B7+Go;Into+performance+%26+clean+design;I+write+on+Qiita" alt="typing" />
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+
 ## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="58%">
 
 ```yaml
 name: hirayama
@@ -14,13 +20,26 @@ role: Backend Engineer
 main: [C#, PHP]
 also: [Go, TypeScript, Python]
 cloud: [GCP, AWS]
-focus: reliable backend systems & clean software design
+focus: performance & clean design
 ```
 
 Backend engineer working mainly with **C# / .NET** and **PHP**.
-I care about clean software design — dependency injection, design patterns,
-and keeping systems maintainable. Off the clock I also tinker with hardware
-like Raspberry Pi.
+I like digging into how things actually work — GC, allocations,
+benchmarks — and I care about clean design (DI, design patterns).
+Off the clock I tinker with Raspberry Pi and Blender.
+
+</td>
+<td valign="top" width="42%">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,go,ts,python&perline=3" alt="stack" />
+
+</div>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
 ## 🛠 Tech Stack
 
@@ -59,18 +78,27 @@ like Raspberry Pi.
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+
 ## 🌱 Currently
 
 - **Learning:** Go
-- **Into:** software design (DI &amp; design patterns), embedded / Raspberry Pi, cloud (GCP / AWS)
+- **Digging into:** performance &amp; internals (GC, allocations, benchmarks)
+- **Care about:** software design — dependency injection &amp; design patterns
+- **For fun:** Raspberry Pi (embedded) &amp; Blender (3D)
 
-## ✍️ Blog
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
-I write about C# / .NET internals, software design, and hardware hacks on Qiita.
+## 📝 Latest on Qiita
 
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/simoyama2323)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<br/>
+<div align="center">
+
+<a href="https://qiita.com/simoyama2323"><img src="https://img.shields.io/badge/Qiita-@simoyama2323-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
+
+</div>
 
 <div align="center">
 
