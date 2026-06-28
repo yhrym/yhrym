@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=hirayama&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Backend%20Engineer&fontSize=58&fontColor=ffffff&animation=fadeIn" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Backend+Engineer;C%23+.NET+%C2%B7+PHP+%C2%B7+Go;Into+performance+%26+clean+design;I+write+on+Qiita" alt="typing" />
 
@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: hirayama
+name: y.hirayama
 role: Backend Engineer
 main: [C#, PHP]
 also: [Go, TypeScript, Python]
