@@ -30,10 +30,11 @@ Off the clock I tinker with Raspberry Pi and Blender.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Also work with**
 
-<img src="https://skillicons.dev/icons?i=go,ts,python,laravel,nodejs,mysql,gcp,aws,docker,git&perline=10" alt="also" />
+<img src="https://skillicons.dev/icons?i=ts,python,laravel,nodejs,mysql,gcp,aws,docker,git&perline=9" alt="also" />
 
 </div>
 
