@@ -61,10 +61,10 @@ My code lives on a separate account → **[@Pokeyama](https://github.com/Pokeyam
 ## 📝 Latest on Qiita
 
 <!-- BLOG-POST-LIST:START -->
+- [Unit of Workパターンを体系的に学んでみた](https://qiita.com/simoyama2323/items/54b8b211ababdbfe6dcf)
 - [継承よりコンポジション](https://qiita.com/simoyama2323/items/56bf78a4c7e7f9327a93)
 - [JWTの先頭が「ey」じゃないトークンを作る](https://qiita.com/simoyama2323/items/b45573959a34f5e9df82)
 - [【C#/Go】GC（ガベージコレクション）の仕組みを実測で理解する](https://qiita.com/simoyama2323/items/f786af9ee006a578a508)
-- [【C#/Go/PHP】配列の初期容量を指定するとどれだけ速くなるのか実測](https://qiita.com/simoyama2323/items/7fe670abb8ccf6b9812a)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
