@@ -1,80 +1,29 @@
-<div align="center">
+# Backend engineer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Backend%20Systems&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="Backend Systems" width="100%" />
+I work mainly with C# / .NET, PHP, and Go.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=560&lines=Performance+%C2%B7+Clean+Design+%C2%B7+Cloud;C%23%2F.NET+%C2%B7+PHP+%C2%B7+Go;I+write+technical+notes+on+Qiita" alt="typing" />
+I'm interested in performance, language internals, and simple software design.
 
-</div>
+`C# / .NET` · `PHP` · `Go` · `GCP` · `AWS`
 
-## 🧑‍💻 About Me
+## Links
 
-```yaml
-role: Backend Engineer
-main: [C#/.NET, PHP, Go]
-also: [TypeScript, Python]
-cloud: [GCP, AWS]
-focus: performance & clean design
-```
+- [Code](https://github.com/Pokeyama)
+- [Qiita](https://qiita.com/simoyama2323)
 
-Backend engineer working mainly with **C# / .NET**, **PHP**, and **Go**.
-I like digging into how things actually work — GC, allocations,
-benchmarks — and I care about clean design (DI, design patterns).
-Off the clock I tinker with Raspberry Pi and Blender.
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-**Core** &nbsp;— what I build with daily
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Also work with**
-
-<img src="https://skillicons.dev/icons?i=ts,python,laravel,nodejs,mysql,gcp,aws,docker,git&perline=9" alt="also" />
-
-</div>
-
-## 🚀 Featured Projects
-
-My code lives on a separate account → **[@Pokeyama](https://github.com/Pokeyama)**
-
-| Project | What it is | Tech |
-| --- | --- | --- |
-| [csharp-realtime-chat-with-magicaonion](https://github.com/Pokeyama/csharp-realtime-chat-with-magicaonion) | Real-time chat server | C# · MagicOnion |
-| [minimal-oidc-auth-server-vue-client](https://github.com/Pokeyama/minimal-oidc-auth-server-vue-client) | Minimal OIDC authorization server + Vue client | TypeScript · Hono · Redis |
-| [spec-dev](https://github.com/Pokeyama/spec-dev) | Spec-driven development example | Go |
-| [speech_summarizer](https://github.com/Pokeyama/speech_summarizer) | Meeting-minutes summarizer | Python · GCP (Speech-to-Text, Vertex AI) |
-| [aws-infrastructure-example](https://github.com/Pokeyama/aws-infrastructure-example) | AWS infrastructure starter | Terraform · AWS |
-| [uniqlo-tshirt-app](https://github.com/Pokeyama/uniqlo-tshirt-app) | Go code featured on a UNIQLO T-shirt | Go |
-
-## 🌱 Currently
-
-- **Learning:** Go
-- **Digging into:** performance &amp; internals (GC, allocations, benchmarks)
-- **Care about:** software design — dependency injection &amp; design patterns
-- **For fun:** Raspberry Pi (embedded) &amp; Blender (3D)
-
-## 📝 Latest on Qiita
+## Recent notes
 
 <!-- BLOG-POST-LIST:START -->
 - [DFrameでMagicOnionサーバの負荷試験@Ramp-Upをどうするか](https://qiita.com/simoyama2323/items/a0227aaed2154e02dc7e)
 - [Unit of Workパターンを体系的に学んでみた](https://qiita.com/simoyama2323/items/54b8b211ababdbfe6dcf)
 - [継承よりコンポジション](https://qiita.com/simoyama2323/items/56bf78a4c7e7f9327a93)
-- [JWTの先頭が「ey」じゃないトークンを作る](https://qiita.com/simoyama2323/items/b45573959a34f5e9df82)
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-
-<a href="https://qiita.com/simoyama2323"><img src="https://img.shields.io/badge/Qiita-@simoyama2323-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" alt="footer" width="100%" />
-
-</div>
+```text
+       (⌒)     (⌒)
+        \  .-.  /
+        /  ´ `  \
+       |    ▽    |   ＼ｱｯｶﾘ～ﾝ／
+        \  ー  /
+         /|   |\
+```
