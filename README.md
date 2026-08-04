@@ -14,9 +14,9 @@ I'm interested in performance, language internals, and simple software design.
 ## Recent notes
 
 <!-- BLOG-POST-LIST:START -->
+- [完全ローカルで会議を「そっと」録音+「そっと」文字起こしするmacOSアプリ「Sotto」を作った](https://qiita.com/simoyama2323/items/c41e40daf888e06010a2)
 - [DFrameでMagicOnionサーバの負荷試験@Ramp-Upをどうするか](https://qiita.com/simoyama2323/items/a0227aaed2154e02dc7e)
 - [Unit of Workパターンを体系的に学んでみた](https://qiita.com/simoyama2323/items/54b8b211ababdbfe6dcf)
-- [継承よりコンポジション](https://qiita.com/simoyama2323/items/56bf78a4c7e7f9327a93)
 <!-- BLOG-POST-LIST:END -->
 
 ```text
