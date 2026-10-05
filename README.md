@@ -14,9 +14,9 @@ I'm interested in performance, language internals, and simple software design.
 ## Recent notes
 
 <!-- BLOG-POST-LIST:START -->
+- [文章の要約でクラウド破産しかけました](https://qiita.com/simoyama2323/items/bc3dd1d2109568834a02)
+- [【AWS】ECSだと開発会社とインフラ側で責務が混ざる話](https://qiita.com/simoyama2323/items/1b00a2140b889bfedf63)
 - [【ECS】FireLensでログをCloudWatchからS3へ逃がす](https://qiita.com/simoyama2323/items/704603bfe390912b8c9d)
-- [GitBucketでGitHub Actionsっぽいことをしたい](https://qiita.com/simoyama2323/items/ee247f205b56e38ce7be)
-- [【認知負債】AIのおかげで仕事は爆速になったけど、勉強することが爆増した](https://qiita.com/simoyama2323/items/06f04484f81975f4c7e7)
 <!-- BLOG-POST-LIST:END -->
 
 ```text
