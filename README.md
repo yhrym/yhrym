@@ -14,9 +14,9 @@ I'm interested in performance, language internals, and simple software design.
 ## Recent notes
 
 <!-- BLOG-POST-LIST:START -->
+- [GKE環境で機密情報をSecret Managerではなくkubernetesで渡す](https://qiita.com/simoyama2323/items/78bf559009a4be21ed2a)
 - [SnowflakeとSonyflake](https://qiita.com/simoyama2323/items/b27f57c46995c1b6df9a)
 - [【EC2】シンプルスケーリングとステップスケーリングの違い](https://qiita.com/simoyama2323/items/f1ff58b8503258fd16c0)
-- [文章の要約でクラウド破産しかけました](https://qiita.com/simoyama2323/items/bc3dd1d2109568834a02)
 <!-- BLOG-POST-LIST:END -->
 
 ```text
